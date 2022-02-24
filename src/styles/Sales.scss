@@ -1,0 +1,17 @@
+.Sales {
+    .SalesInput {
+        margin: -1rem  1rem;
+        display: flex;
+
+        input {
+            display: block;
+            padding: .5rem;
+            border-radius: 10px;
+            border: solid 1px;
+        }
+        
+        label {
+            margin: 0 1rem;
+        }
+    }
+}

@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@200;400;500;600&display=swap');
+
+$bg-color: #F2FBE0;
+$main-color: #5E9859;
+$dark-color: #25291C;
+$white-color: #FFFFFF;
+$black-color: #1A1E1B;
+$red-color: #FF101F;
+$blue-color: #29339B;
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.layout {
+    display: grid; 
+    grid-template-columns: 0.75fr 1.5fr 1fr; 
+    grid-template-rows: 1fr 1fr 1fr; 
+    gap: 0px 0px; 
+    grid-template-areas: 
+      "navbar main side"
+      "navbar main side"
+      "navbar main side"; 
+    background-color: $white-color;
+    font-family: 'Outfit', sans-serif;
+}
+
+
+.main {
+    grid-area: main;
+}
+
+.side {
+    grid-area: side;
+}

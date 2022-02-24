@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@200;400;500;600&display=swap");
+.navbar {
+  background-color: #1A1E1B;
+  color: #FFFFFF;
+  grid-area: navbar;
+  height: 100vh;
+  padding: 1rem 2rem 0 2rem;
+}
+
+.navbar h1 {
+  font-size: 3rem;
+  text-align: center;
+}
+
+.navbar .menu {
+  margin: 5rem 1rem;
+}
+
+.navbar .menu li {
+  list-style-type: none;
+  margin: 2rem 0;
+  font-size: 1.5rem;
+}
+/*# sourceMappingURL=Navbar.css.map */

@@ -1,0 +1,15 @@
+$bg-color: #F2FBE0;
+$main-color: #5E9859;
+$dark-color: #25291C;
+$white-color: #FFFFFF;
+$black-color: #1A1E1B;
+$red-color: #FF101F;
+$blue-color: #29339B;
+
+.main {
+    h1 {
+        color: $main-color;
+        margin: 2rem;
+        font-size: 2rem;
+    }
+}

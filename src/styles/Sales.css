@@ -1,0 +1,18 @@
+.Sales .SalesInput {
+  margin: -1rem  1rem;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.Sales .SalesInput input {
+  display: block;
+  padding: .5rem;
+  border-radius: 10px;
+  border: solid 1px;
+}
+
+.Sales .SalesInput label {
+  margin: 0 1rem;
+}
+/*# sourceMappingURL=Sales.css.map */

@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@200;400;500;600&display=swap');
+
+$bg-color: #F2FBE0;
+$main-color: #5E9859;
+$dark-color: #25291C;
+$white-color: #FFFFFF;
+$black-color: #1A1E1B;
+$red-color: #FF101F;
+$blue-color: #29339B;
+
+
+.navbar {
+    background-color: $black-color;
+    color: $white-color;
+    grid-area: navbar;
+    height: 100vh;
+    padding: 1rem 2rem 0 2rem;
+
+
+
+    h1 {
+        font-size: 3rem;
+        text-align: center;
+    }
+
+    .menu {
+        margin: 5rem 1rem;
+
+        li {
+            list-style-type: none;
+            margin: 2rem 0;
+            font-size: 1.5rem;
+        }
+    }
+}

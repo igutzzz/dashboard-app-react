@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,OAAO,CAAC,wFAAI;AAGZ,AAAA,UAAU,CAAC;EACP,MAAM,EAAE,SAAS;CACpB",
+    "sources": [
+        "MainChart.scss"
+    ],
+    "names": [],
+    "file": "MainChart.css"
+}

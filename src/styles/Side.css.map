@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAQA,AAAA,KAAK,CAAC;EACF,MAAM,EAAE,KAAK,CAAC,GAAG,CAJT,OAAO;EAKf,MAAM,EAAE,KAAK;CAChB",
+    "sources": [
+        "Side.scss"
+    ],
+    "names": [],
+    "file": "Side.css"
+}
